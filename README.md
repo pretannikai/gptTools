@@ -1,5 +1,5 @@
 # GPTTools
-A set of tools that do cool stuff with ChatGPT
+A set of tools that does cool stuff with ChatGPT
 
 ## Requirements
 - Python 3 or later
